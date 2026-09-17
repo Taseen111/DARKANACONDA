@@ -1,0 +1,24 @@
+DARKANACONDA V23 — CLEAN RESTART BASELINE
+
+Pricing:
+Starter / Landing Page: $499 AUD
+Business / Business Website: $999 AUD
+Custom Solution: Let's Talk when empty
+Website Redesign: $699 AUD
+Mobile Responsive Design: $299 AUD
+Basic SEO: $199 AUD
+Website Maintenance: $99 AUD/month
+All 20 planner options selected: $3,498 AUD
+
+V23 fixes:
+- External calculator JavaScript works with strict CSP.
+- Checkbox label clicks no longer double-toggle.
+- Package included features remain price-neutral when unchecked.
+- All 20 selected produces $3,498 regardless of starting package.
+- Standalone service pricing is sourced from DA_PRICING.standaloneServices.
+- Removed obsolete Pricing nav link from project details.
+- Removed duplicate pricing-data.js include from project details.
+- Added explicit favicon sizes and app icons.
+- Share Happiness screenshot is included at images/share-happiness-initiative.png.
+- Production domain is darkanaconda.com.
+- Project flow and asset paths were checked locally.
