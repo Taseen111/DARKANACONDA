@@ -67,6 +67,3 @@ GoDaddy is used only as a market/reference benchmark here; GoDaddy does not publ
 
 ## Pricing architecture — Version 11
 The project planner uses `pricing-data.js` as its single source of truth. The three package identities are Starter/Landing Page ($499), Business/Business Website ($999), and Custom/Custom Solution (Let's Talk). The calculator uses one shared catalogue and ensures that selecting every catalogue service resolves to the same complete-build total ($5,045 one-time, with Website Maintenance shown separately at $99/month).
-
-## V23 CLEAN RESTART
-V23 is the clean production baseline after a full project audit. The calculator is external-CSP compatible, the checkbox interaction is deterministic, pricing has a standalone-service source, obsolete navigation/duplicate script issues are removed, and the favicon set is explicit.

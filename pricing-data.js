@@ -1,4 +1,4 @@
-/* DARKANACONDA — pricing source of truth (V23)
+/* DARKANACONDA — pricing source of truth (V20)
    Package prices and project-planner option values are intentionally separate:
    package prices are bundle prices; option values are the planner's component values.
    All 20 planner options selected => $3,498 one-time for every route.
@@ -47,13 +47,6 @@ window.DA_PRICING = {
     { id:'photography', name:'Professional Photography', price:250 },
     { id:'integrations', name:'Advanced Integrations', price:300 }
   ],
-
-  standaloneServices: {
-    'website-redesign': { id:'website-redesign', name:'Website Redesign', price:699, recurring:false },
-    'mobile-responsive-design': { id:'mobile', name:'Mobile Responsive Design', price:299, recurring:false },
-    'basic-seo': { id:'basic-seo', name:'Basic SEO', price:199, recurring:false },
-    'website-maintenance': { id:'website-maintenance', name:'Website Maintenance', price:99, recurring:true }
-  },
 
   publicServices: [
     { name:'Business Websites', price:999, path:'services/business-websites.html' },

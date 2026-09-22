@@ -1,0 +1,16 @@
+DARKANACONDA — VERSION 18 FINAL EDITION
+
+Pricing/service route fix:
+- Business Websites -> package=business -> $999 AUD starting package.
+- Landing Pages -> package=starter -> $499 AUD starting package.
+- Website Redesign -> service=website-redesign -> $699 AUD.
+- Mobile Responsive Design -> service=mobile-responsive-design -> $299 AUD.
+- Basic SEO -> service=basic-seo -> $199 AUD.
+- Website Maintenance -> service=website-maintenance -> $99 AUD/month.
+- Custom Solutions -> package=custom.
+
+The service calculator mode no longer falls back to the Business package.
+Contact email opens a Gmail compose window.
+
+
+Version 18 fix: standalone service routes preselect their exact advertised service as an included/base service, so Website Redesign ($699), Mobile Responsive Design ($299), Basic SEO ($199), and Website Maintenance ($99/mo) no longer require a package fallback.

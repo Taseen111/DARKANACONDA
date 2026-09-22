@@ -1,0 +1,16 @@
+DARKANACONDA V12 — FINAL STRUCTURE & PRICING AUDIT
+
+1. The six Digital Solutions cards are informational service pages only. Their CTA routes to the single central Start a Project flow.
+2. Service-page price calculators were removed. There is one project calculator.
+3. Package names are consistent: Starter — Landing Page $499 AUD; Business — Business Website $999 AUD; Custom — Custom Solution — Let’s Talk.
+4. The project planner contains exactly 20 selectable project options.
+5. Starter has exactly 5 included options whose planner allocation totals $499.
+6. Business has exactly 12 included options whose planner allocation totals $999.
+7. The remaining 8 options total $2,499. Selecting all 20 therefore resolves to $3,498 one-time for Starter, Business, and Custom.
+8. Website Maintenance is a separate recurring standalone service at $99 AUD/month and is not part of the 20-option one-time planner catalogue.
+9. Package-included options are displayed as “Included”, never as $0 paid add-ons.
+10. The homepage pricing panel shows packages, standalone services and actual project options; package-included features are not shown as fake $0 services.
+11. The old Basic Website $400 and Professional Website $919 package system is removed.
+12. Service pages no longer contain their own price calculators or duplicated optional-extra calculators.
+13. Contact section keeps the founder name, with the middle logo and “YOUR CONTACT” heading removed.
+14. Project-details reads the current estimate format and converts option IDs to human-readable names.

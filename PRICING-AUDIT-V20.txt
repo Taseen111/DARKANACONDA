@@ -1,0 +1,12 @@
+DARKANACONDA VERSION 20 — CALCULATOR FIX
+
+- Business package starts at $999 AUD and renders its 12 included services immediately.
+- Starter package starts at $499 AUD and renders its 5 included services immediately.
+- Custom starts at $0 AUD and allows any services to be selected.
+- All 20 master planner services render on package routes.
+- Included services are blue and do not add to the package price again.
+- Unchecking an included service does not reduce the package price.
+- Additional selected services are green and add their listed catalogue price.
+- Selecting all 20 services produces the same $3,498 one-time total for Starter/Business/Custom.
+- Standalone service routes remain preselected at their advertised starting prices.
+- Calculator includes a safe fallback catalogue if pricing-data.js fails to load, preventing a silent $0/empty calculator.

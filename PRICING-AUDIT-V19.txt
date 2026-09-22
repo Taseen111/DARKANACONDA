@@ -1,0 +1,11 @@
+DARKANACONDA VERSION 18 — PRICING / SERVICE ROUTE AUDIT
+
+Standalone service routes:
+- website-redesign -> $699 AUD, preselected as included/base service
+- mobile-responsive-design -> $299 AUD, preselected as included/base service
+- basic-seo -> $199 AUD, preselected as included/base service
+- website-maintenance -> $99 AUD/month, preselected as included/base service
+
+Starter and Business package included-service behavior remains unchanged.
+
+Additional services remain separately selectable and charge at their master catalogue values.

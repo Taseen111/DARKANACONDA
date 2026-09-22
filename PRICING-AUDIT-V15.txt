@@ -1,0 +1,8 @@
+DARKANACONDA VERSION 15 — CHANGE AUDIT
+
+Founder identity update:
+- Removed the visible box/border/background around TASEEN.
+- TASEEN remains the only displayed founder name.
+- Added animated green/white gradient typography to TASEEN.
+- Added a subtle floating animation to the Founder & Web Developer title.
+- Preserved reduced-motion accessibility behavior.

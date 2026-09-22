@@ -1,0 +1,8 @@
+DARKANACONDA — VERSION 16 AUDIT
+
+1. Quote panel “Start a Project” explicitly closes the quote panel and returns to the homepage Services section.
+2. Main Start a Project navigation continues to the Services section.
+3. Mobile founder identity is horizontally centered: TASEEN with Founder & Web Developer beneath it.
+4. Share Happiness Initiative uses the user-supplied screenshot as its portfolio image.
+5. Portfolio cards remain compact and show only the image, title and View Live Website link.
+6. Project calculator Back button returns to Services because the separate Pricing section has been removed.

@@ -1,0 +1,12 @@
+DARKANACONDA PROJECT PLANNER — VERSION 13 AUDIT
+
+1. The obsolete project-start.html package-selection page has been removed.
+2. Homepage pricing cards now select Starter, Business or Custom and open project-calculator.html directly.
+3. All service-page project CTAs now open the calculator directly.
+4. Homepage Services now contains exactly 9 cards using the existing service-card animation/design.
+5. Homepage Our Work now contains Elite Car Detailing plus Share Happiness Initiative.
+6. Share Happiness Initiative live URL: https://share-happiness-initiative-website.pages.dev
+7. Contact layout is 50/50 on desktop and stacks on mobile.
+8. Founder card contains only Taseen / Taseemuzzaman and Founder & Web Developer, with continuous subtle animation.
+9. Calculator remains the single estimate calculator.
+10. Package pricing and the 20-option catalogue remain sourced from pricing-data.js.

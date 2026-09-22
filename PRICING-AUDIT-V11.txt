@@ -1,0 +1,72 @@
+DARKANACONDA PRICING + PROJECT PLANNER AUDIT — VERSION 11
+
+PACKAGE IDENTITIES
+Starter  → Landing Page        → $499 AUD
+Business → Business Website    → $999 AUD
+Custom   → Custom Solution     → Let's Talk
+
+MASTER PROJECT-PLANNER CATALOGUE
+The project planner uses one shared service catalogue. The same service name has one canonical retail price wherever it is an add-on.
+
+1. Landing Page                  $499 AUD
+2. Business Website              $999 AUD
+3. Website Redesign              $699 AUD
+4. Mobile Responsive Design      $299 AUD
+5. Basic SEO                     $199 AUD
+6. Website Maintenance            $99 AUD / month
+7. Additional Website Page       $100 AUD
+8. Advanced SEO                  $300 AUD
+9. E-commerce                    $500 AUD
+10. Booking System               $200 AUD
+11. Copywriting                  $150 AUD
+12. Professional Photography     $250 AUD
+13. Advanced Integrations        $300 AUD
+14. Payment Integration           $200 AUD
+15. Advanced Analytics            $100 AUD
+16. WhatsApp Integration          $100 AUD
+17. Google Maps Integration        $50 AUD
+18. Contact / Enquiry System        Included feature
+19. Fast Performance                Included feature
+20. Performance Optimisation      $100 AUD
+21. Professional Design             Included feature
+22. Up to 5 Pages                   Included feature
+23. Basic Security                  Included feature
+24. Business Structure              Included feature
+
+PACKAGE INCLUDED SERVICES
+Starter: 5 services
+- Landing Page
+- Mobile Responsive Design
+- Basic SEO
+- Contact / Enquiry System
+- Fast Performance
+
+Business: 12 services
+- Business Website
+- Mobile Responsive Design
+- Basic SEO
+- Contact / Enquiry System
+- WhatsApp Integration
+- Google Maps Integration
+- Fast Performance
+- Professional Design
+- Up to 5 Pages
+- Performance Optimisation
+- Basic Security
+- Business Structure
+
+PRICING RULE
+- Included services are pre-selected in blue and do not add a second charge.
+- Extra services are selected in green and use the same canonical catalogue price.
+- Removing an included service does not reduce the advertised package price.
+- The same service is never duplicated in the extras list when it is already included.
+- When every catalogue service is selected, Starter, Business and Custom all resolve to the same complete-build total.
+- Complete catalogue one-time total: $5,045 AUD.
+- Website Maintenance, when selected, is an additional $99 AUD/month recurring charge.
+
+CONTACT SECTION
+- Middle logo card removed.
+- "YOUR CONTACT" label removed.
+- Founder/contact card is the narrower one-third column on desktop.
+- Email uses a mailto link.
+- Empty form-status element is hidden until a success/error message exists.

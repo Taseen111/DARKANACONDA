@@ -1,0 +1,10 @@
+DARKANACONDA — VERSION 15 CHANGE AUDIT
+
+1. Main Start a Project CTA leads directly to the Services section.
+2. Duplicate service cards 07 Landing Page and 08 Business Website were removed.
+3. Services now contain 7 unique cards, numbered 01–07.
+4. On mobile, service cards show only number, name, price and Explore Service; descriptions are hidden. Desktop presentation remains intact.
+5. The homepage SIMPLE PRICING section and Pricing navigation item were removed.
+6. Our Work is tightened on mobile: smaller preview, browser chrome, spacing and project content.
+7. Founder card now displays only TASEEN with Founder & Web Developer beneath it, retaining the floating/glow animation.
+8. Central calculator/package logic and pricing-data.js remain intact.
