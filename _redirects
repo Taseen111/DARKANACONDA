@@ -1,8 +1,0 @@
-# DARKANACONDA service URL compatibility
-# Keep the canonical .html service files as the deployed source of truth.
-/services/business-websites/ /services/business-websites.html 301
-/services/landing-pages/ /services/landing-pages.html 301
-/services/website-redesign/ /services/website-redesign.html 301
-/services/mobile-responsive-design/ /services/mobile-responsive-design.html 301
-/services/basic-seo/ /services/basic-seo.html 301
-/services/website-maintenance/ /services/website-maintenance.html 301
