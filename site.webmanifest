@@ -8,12 +8,7 @@
   "description": "Web design and development for Australian businesses.",
   "icons": [
     {
-      "src": "/images/favicon.png?v=24",
-      "sizes": "64x64",
-      "type": "image/png"
-    },
-    {
-      "src": "/favicon.ico?v=24",
+      "src": "/favicon.ico?v=25",
       "sizes": "16x16 32x32 48x48 64x64",
       "type": "image/x-icon"
     }
