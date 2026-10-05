@@ -18,5 +18,8 @@
 /*.js
   Cache-Control: no-cache, must-revalidate
 
+/favicon.ico
+  Cache-Control: no-cache, must-revalidate
+
 /images/*
   Cache-Control: public, max-age=3600, must-revalidate
