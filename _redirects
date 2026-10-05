@@ -1,2 +1,3 @@
-# Portfolio image fallback: generate a live preview of the Share Happiness Initiative site
-/images/share-happiness-initiative.png https://image.thum.io/get/width/1200/crop/900/https://share-happiness-initiative-website.pages.dev/ 302
+# Portfolio image fallback
+# Use the actual Share Happiness Initiative brand image from its source repository.
+/images/share-happiness-initiative.png https://raw.githubusercontent.com/Taseen111/share-happiness-initiative-website/main/assets/images/share-happiness-logo.png 302
